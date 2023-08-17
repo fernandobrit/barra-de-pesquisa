@@ -30,5 +30,15 @@ body {
  } 
 
  button {
-  transform: 10px;
- }
+  color: white;
+  background: blue;
+  transition: transform 1s;
+  transform: translateX(0) scale(0.5);
+}
+
+button:hover,
+button:focus {
+  background: red;
+  transform: translateX(10px) scale(1.2);
+  
+}
