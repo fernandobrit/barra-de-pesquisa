@@ -17,29 +17,19 @@ body {
   /* Quando o campo de entrada receber o foco,
        mude sua largura para 100% */
   input[type=text]:focus {
-    width: 70%;
+    width: 70%; 
   }
-
- #list{
-   font-size:  1.5em;
-   margin-left: 90px;
-  }
-
-.materias{
-  display: list-item;    
- } 
 
  button {
   color: white;
-  background: rgb(166, 255, 0);
-  transition: transform 2.2s;
+  background: rgb(45, 46, 48);
+  transition: transform ;
   border-radius: 10px;
-  margin-top: 250px;
+  margin-top: 25;
 }
 
 button:hover,
 button:focus {
-  background: rgb(60, 255, 0);
+  background: rgb(200, 255, 0);
   transform: translateX(10px) scale(1.2);
-  
 }
