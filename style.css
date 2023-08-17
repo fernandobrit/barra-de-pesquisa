@@ -24,12 +24,12 @@ body {
   color: white;
   background: rgb(45, 46, 48);
   transition: transform ;
-  border-radius: 10px;
+  border-radius: 5px;
   margin-top: 25;
 }
 
 button:hover,
 button:focus {
   background: rgb(200, 255, 0);
-  transform: translateX(10px) scale(1.2);
+  transform: translateX(10px) scale(0.7);
 }
