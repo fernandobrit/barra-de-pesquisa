@@ -30,5 +30,5 @@ body {
  } 
 
  button {
-  transform: translateX(5px) scale(1.0);
+  transform: 10px;
  }
