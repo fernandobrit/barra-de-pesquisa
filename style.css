@@ -42,3 +42,8 @@ button:focus {
   transform: translateX(10px) scale(1.2);
   
 }
+
+div{
+  background-color: aliceblue;
+  margin: center;
+}
