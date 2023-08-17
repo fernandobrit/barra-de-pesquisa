@@ -28,3 +28,7 @@ body {
 .materias{
   display: list-item;    
  } 
+
+ #list {
+    transition: 2s;
+ }
