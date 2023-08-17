@@ -29,6 +29,6 @@ body {
   display: list-item;    
  } 
 
- #list {
-    transition: 2s;
+ button {
+    transform: 1s;
  }
