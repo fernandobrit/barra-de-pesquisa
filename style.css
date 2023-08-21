@@ -23,7 +23,7 @@ body {
  button {
   color: white;
   background: rgb(45, 46, 48);
-  transition: 1.5 ;
+  transition: 5.0 ;
   border-radius: 5px;
   margin-top: 25;
 }
