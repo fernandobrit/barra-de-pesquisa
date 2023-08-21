@@ -26,6 +26,7 @@ body {
   transition: 2.0 ;
   border-radius: 5px;
   margin-top: 25;
+  width: center ;
 }
 
 button:hover,
