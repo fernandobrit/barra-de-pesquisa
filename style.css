@@ -31,5 +31,5 @@ body {
 button:hover,
 button:focus {
   background: rgb(200, 255, 0);
-  transform: translateX(10px) scale(5);
+  transform: translateX(10px) scale(0.7);
 }
