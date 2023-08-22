@@ -34,3 +34,8 @@ button:focus {
   background: rgb(200, 255, 0);
   transform: translateX(10px) scale(2.0);
 }
+
+div {
+  margin-top: 250px;
+  width: 250px;
+}
