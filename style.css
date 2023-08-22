@@ -21,7 +21,7 @@ body {
   }
 
  button {
-  color: white;
+  color: rgb(99, 9, 216);
   background: rgb(45, 46, 48);
   transition: transform ;
   border-radius: 5px;
@@ -32,7 +32,7 @@ body {
 button:hover,
 button:focus {
   background: rgb(119, 0, 255);
-  transform: translateX(2px) scale(1.0);
+  transform: translateX(5px) scale(1.0);
 }
 
 div {
