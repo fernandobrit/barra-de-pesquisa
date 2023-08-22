@@ -23,7 +23,7 @@ body {
  button {
   color: white;
   background: rgb(45, 46, 48);
-  transition: transforme ;
+  transition: transform ;
   border-radius: 5px;
   margin-top: 25;
   width: center ;
