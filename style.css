@@ -23,7 +23,7 @@ body {
  button {
   color: white;
   background: rgb(45, 46, 48);
-  transition: 2.0 ;
+  transition: transforme ;
   border-radius: 5px;
   margin-top: 25;
   width: center ;
@@ -32,5 +32,5 @@ body {
 button:hover,
 button:focus {
   background: rgb(200, 255, 0);
-  transform: translateX(10px) scale(0.7);
+  transform: translateX(10px) scale(2.0);
 }
