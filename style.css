@@ -32,7 +32,7 @@ body {
 button:hover,
 button:focus {
   background: rgb(119, 0, 255);
-  transform: translateX(5px) scale(1.0);
+  transform:  scale(1.0);
 }
 
 div {
